@@ -1,0 +1,121 @@
+[
+    "characters": [
+        {
+            "name": "Carly",
+            "attributes": {
+                "cooking": 10,
+                "drinking": 7,
+                "sleeping": 5,
+                "teaDrinking": 9,
+                "bartering": 4,
+                "snacking": 8,
+                "mischievousness": 5,
+                "marioKart": 6
+            }
+        },
+        {
+            "name": "Liam",
+            "attributes": {
+                "cooking": 6,
+                "drinking": 9,
+                "sleeping": 5,
+                "teaDrinking": 4,
+                "bartering": 9,
+                "snacking": 5,
+                "mischievousness": 9,
+                "marioKart": 9
+            }
+        },
+        {
+            "name": "Phil",
+            "attributes": {
+                "cooking": 6,
+                "drinking": 7,
+                "sleeping": 9,
+                "teaDrinking": 10,
+                "bartering": 3,
+                "snacking": 4,
+                "mischievousness": 8,
+                "marioKart": 8
+            }
+        },
+        {
+            "name": "Jordan",
+            "attributes": {
+                "cooking": 9,
+                "drinking": 5,
+                "sleeping": 5,
+                "teaDrinking": 7,
+                "bartering": 3,
+                "snacking": 6,
+                "mischievousness": 9,
+                "marioKart": 10
+            }
+        },
+        {
+            "name": "Vanesa",
+            "attributes": {
+                "cooking": 9,
+                "drinking": 5,
+                "sleeping": 4,
+                "teaDrinking": 7,
+                "bartering": 6,
+                "snacking": 5,
+                "mischievousness": 10,
+                "marioKart": 7
+            }
+        },
+        {
+            "name": "Olivia",
+            "attributes": {
+                "cooking": 8,
+                "drinking": 7,
+                "sleeping": 5,
+                "teaDrinking": 9,
+                "bartering": 4,
+                "snacking": 7,
+                "mischievousness": 6,
+                "marioKart": 5
+            }
+        },
+        {
+            "name": "Tirth",
+            "attributes": {
+                "cooking": 7,
+                "drinking": 6,
+                "sleeping": 7,
+                "teaDrinking": 7,
+                "bartering": 5,
+                "snacking": 6,
+                "mischievousness": 6,
+                "marioKart": 6
+            }
+        },
+        {
+            "name": "Harriet",
+            "attributes": {
+                "cooking": 10,
+                "drinking": 7,
+                "sleeping": 5,
+                "teaDrinking": 9,
+                "bartering": 4,
+                "snacking": 8,
+                "mischievousness": 5,
+                "marioKart": 6
+            }
+        },
+        {
+            "name": "Mike",
+            "attributes": {
+                "cooking": 10,
+                "drinking": 7,
+                "sleeping": 5,
+                "teaDrinking": 9,
+                "bartering": 4,
+                "snacking": 8,
+                "mischievousness": 5,
+                "marioKart": 6
+            }
+        }
+    ]
+]
